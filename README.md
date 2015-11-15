@@ -13,8 +13,11 @@ Approach towards solving the challenge
 The program was split into various user stories. These are listed below:
 
 1) Print all numbers from 1 to 100 individually.
+
 2) Print "Fizz" instead of the number for all the multiples of three.
+
 3) Print "Buzz" instead of the number for all multiples of  five.
+
 4) Print "FizzBuzz" instead of the number for numbers that
 
 

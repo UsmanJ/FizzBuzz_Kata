@@ -18,7 +18,7 @@ The program was split into various user stories. These are listed below:
 
 3) Print "Buzz" instead of the number for all multiples of  five.
 
-4) Print "FizzBuzz" instead of the number for numbers that
+4) Print "FizzBuzz" instead of the number for numbers that are divisible by fifteen.
 
 
 FizzBuzz Kata in Terminal
@@ -36,4 +36,8 @@ irb(main):005:0> fizzbuzz(60)
 => "FizzBuzz"
 irb(main):006:0> fizzbuzz(90)
 => "FizzBuzz"
+irb(main):007:0> fizzbuzz(9)
+=> "Fizz"
+irb(main):008:0> fizzbuzz(20)
+=> "Buzz"
 ```

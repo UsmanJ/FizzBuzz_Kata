@@ -1,4 +1,4 @@
-FizzBuzz Kata   [![Coverage Status](https://coveralls.io/repos/UsmanJ/FizzBuzz_Kata/badge.svg?branch=master&service=github)](https://coveralls.io/github/UsmanJ/FizzBuzz_Kata?branch=master)
+FizzBuzz Kata   [![Coverage Status](https://coveralls.io/repos/UsmanJ/FizzBuzz_Kata/badge.svg?branch=master&service=github)](https://coveralls.io/github/UsmanJ/FizzBuzz_Kata?branch=master)  [![Build Status](https://travis-ci.org/UsmanJ/FizzBuzz_Kata.svg?branch=master)](https://travis-ci.org/UsmanJ/FizzBuzz_Kata)
 ======================
 
 Synopsis
